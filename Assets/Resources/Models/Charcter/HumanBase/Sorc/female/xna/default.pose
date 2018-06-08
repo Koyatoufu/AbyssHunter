@@ -1,0 +1,83 @@
+root ground: 0 0 0 0 0 0 1 1 1
+root twist: 0 0 0 0 0 0 1 1 1
+pelvis: 0 0 0 0 0 0 1 1 1
+leg left hip: 0 0 0 0 0 0 1 1 1
+leg left thigh: 0 0 0 0 0 0 1 1 1
+leg left knee: 0 0 0 0 0 0 1 1 1
+leg left calf twist: 0 0 0 0 0 0 1 1 1
+leg left knee adj: 0 0 0 0 0 0 1 1 1
+leg left ankle: 0 0 0 0 0 0 1 1 1
+leg left ankle adj: 0 0 0 0 0 0 1 1 1
+leg left toe0: 0 0 0 0 0 0 1 1 1
+leg left knee twist: 0 0 0 0 0 0 1 1 1
+leg left thigh twist: 0 0 0 0 0 0 1 1 1
+leg left thigh adj: 0 0 0 0 0 0 1 1 1
+leg right hip: 0 0 0 0 0 0 1 1 1
+leg right thigh: 0 0 0 0 0 0 1 1 1
+leg right knee: 0 0 0 0 0 0 1 1 1
+leg right calft twist: 0 0 0 0 0 0 1 1 1
+leg right knee adj: 0 0 0 0 0 0 1 1 1
+leg right ankle: 0 0 0 0 0 0 1 1 1
+leg right ankle adj: 0 0 0 0 0 0 1 1 1
+leg right toe0: 0 0 0 0 0 0 1 1 1
+leg right knee twist: 0 0 0 0 0 0 1 1 1
+leg right thigh twist: 0 0 0 0 0 0 1 1 1
+leg right thigh twist1: 0 0 0 0 0 0 1 1 1
+spine lower: 0 0 0 0 0 0 1 1 1
+spine middle: 0 0 0 0 0 0 1 1 1
+spine upper: 0 0 0 0 0 0 1 1 1
+arm left shoulder 1: 0 0 0 0 0 0 1 1 1
+arm left shoulder adj: 0 0 0 0 0 0 1 1 1
+arm left shoulder 2: 0 0 0 0 0 0 1 1 1
+arm left elbow: 0 0 0 0 0 0 1 1 1
+arm left forearm: 0 0 0 0 0 0 1 1 1
+arm left forearm twist: 0 0 0 0 0 0 1 1 1
+arm left foretwist: 0 0 0 0 0 0 1 1 1
+arm left wrist: 0 0 0 0 0 0 1 1 1
+arm left finger 0: 0 0 0 0 0 0 1 1 1
+arm left finger 01: 0 0 0 0 0 0 1 1 1
+arm left finger 02: 0 0 0 0 0 0 1 1 1
+arm left finger 1: 0 0 0 0 0 0 1 1 1
+arm left finger 11: 0 0 0 0 0 0 1 1 1
+arm left finger 12: 0 0 0 0 0 0 1 1 1
+arm left finger 2: 0 0 0 0 0 0 1 1 1
+arm left finger 21: 0 0 0 0 0 0 1 1 1
+arm left finger 22: 0 0 0 0 0 0 1 1 1
+arm left finger 3: 0 0 0 0 0 0 1 1 1
+arm left finger 31: 0 0 0 0 0 0 1 1 1
+arm left finger 32: 0 0 0 0 0 0 1 1 1
+arm left finger 4: 0 0 0 0 0 0 1 1 1
+arm left finger 41: 0 0 0 0 0 0 1 1 1
+arm left finger 42: 0 0 0 0 0 0 1 1 1
+arm left shoulder twist: 0 0 0 0 0 0 1 1 1
+arm left shoulder twist1: 0 0 0 0 0 0 1 1 1
+pectoral left: 0 0 0 0 0 0 1 1 1
+head neck lower: 0 0 0 0 0 0 1 1 1
+head neck upper: 0 0 0 0 0 0 1 1 1
+arm right shoulder 1: 0 0 0 0 0 0 1 1 1
+arm right shoulder adj: 0 0 0 0 0 0 1 1 1
+arm right shoulder 2: 0 0 0 0 0 0 1 1 1
+arm right elbow: 0 0 0 0 0 0 1 1 1
+arm right forearm: 0 0 0 0 0 0 1 1 1
+arm right forearm twist: 0 0 0 0 0 0 1 1 1
+arm right foretwist: 0 0 0 0 0 0 1 1 1
+arm right wrist: 0 0 0 0 0 0 1 1 1
+arm right finger 0: 0 0 0 0 0 0 1 1 1
+arm right finger 01: 0 0 0 0 0 0 1 1 1
+arm right finger 02: 0 0 0 0 0 0 1 1 1
+arm right finger 1: 0 0 0 0 0 0 1 1 1
+arm right finger 11: 0 0 0 0 0 0 1 1 1
+arm right finger 12: 0 0 0 0 0 0 1 1 1
+arm right finger 2: 0 0 0 0 0 0 1 1 1
+arm right finger 21: 0 0 0 0 0 0 1 1 1
+arm right finger 22: 0 0 0 0 0 0 1 1 1
+arm right finger 3: 0 0 0 0 0 0 1 1 1
+arm right finger 31: 0 0 0 0 0 0 1 1 1
+arm right finger 32: 0 0 0 0 0 0 1 1 1
+arm right finger 4: 0 0 0 0 0 0 1 1 1
+arm right finger 41: 0 0 0 0 0 0 1 1 1
+arm right finger 42: 0 0 0 0 0 0 1 1 1
+arm right shoulder twist: 0 0 0 0 0 0 1 1 1
+arm right shoulder twist1: 0 0 0 0 0 0 1 1 1
+pectoral right: 0 0 0 0 0 0 1 1 1
+collar bone: 0 0 0 0 0 0 1 1 1

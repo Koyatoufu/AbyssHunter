@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3baaf1fd7276dcd489da2911acc78dd0, type: 3}
+  m_Name: balder
+  m_EditorClassIdentifier: 
+  m_unitPrefab: {fileID: 1876153417708376, guid: 663bb21dcb35dd74e912f021f28e9212,
+    type: 2}
+  m_iconImage: {fileID: 0}
+  m_index: 2
+  m_name: balder
+  m_unitType: 1
+  m_baseStat:
+    hp: 80
+    maxHp: 80
+    stamina: 0
+    maxStamina: 0
+    moveSpeed: 3
+    dudgeSpeed: 2
+    nItemLoad: 0
+    resister:
+      strike: 5
+      slash: 0
+      fire: 5
+      ice: 5
+      thunder: -5
+  m_stayLevel: 
+  m_putItems:
+  - {fileID: 11400000, guid: 393e3521f23e0f5408febafa882ebfc0, type: 2}
+  - {fileID: 11400000, guid: b89f34a69294af245ae633f0ce46bed2, type: 2}

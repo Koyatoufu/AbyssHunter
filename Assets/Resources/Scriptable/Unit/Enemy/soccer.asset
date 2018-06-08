@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3baaf1fd7276dcd489da2911acc78dd0, type: 3}
+  m_Name: soccer
+  m_EditorClassIdentifier: 
+  m_unitPrefab: {fileID: 1536474751007598, guid: 2d8308ac0ac928742ac62f8a3d9cc380,
+    type: 2}
+  m_iconImage: {fileID: 0}
+  m_index: 3
+  m_name: soccer
+  m_unitType: 1
+  m_baseStat:
+    hp: 70
+    maxHp: 70
+    stamina: 0
+    maxStamina: 0
+    moveSpeed: 2
+    dudgeSpeed: 2
+    nItemLoad: 0
+    resister:
+      strike: -5
+      slash: 0
+      fire: 5
+      ice: 5
+      thunder: 5
+  m_stayLevel: 

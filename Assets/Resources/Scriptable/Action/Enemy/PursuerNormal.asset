@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 331ea59508c87d44784cb1b4eec4adf2, type: 3}
+  m_Name: PursuerNormal
+  m_EditorClassIdentifier: 
+  type: 0
+  m_steps:
+  - animName: Attack1_Purser
+    fMotionMagnifi: 1
+    isAttack: 1
+    canHold: 0
+    hitType: 1
+    canNormalCancel: 1
+    canStrongCancel: 1
+    canSubCancel: 0
+    canUniqueCancel: 0
+  - animName: Attack2_Purser
+    fMotionMagnifi: 1.2
+    isAttack: 1
+    canHold: 0
+    hitType: 4
+    canNormalCancel: 1
+    canStrongCancel: 1
+    canSubCancel: 0
+    canUniqueCancel: 0
+  - animName: Attack3_Purser
+    fMotionMagnifi: 1.3
+    isAttack: 1
+    canHold: 0
+    hitType: 2
+    canNormalCancel: 0
+    canStrongCancel: 0
+    canSubCancel: 0
+    canUniqueCancel: 0

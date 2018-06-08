@@ -1,0 +1,9 @@
+Library 
+Temp
+.git
+.vs 
+*. pidb 
+*. unityproj 
+* .. sln 
+*. userprefs
+*.meta

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b4598b5ac226b447aa4af81e64327ba, type: 3}
+  m_Name: claymore
+  m_EditorClassIdentifier: 
+  m_iconImg: {fileID: 21300024, guid: 2dc524a42369a0148bf44395f1365696, type: 3}
+  m_itemIdx: 3
+  m_name: Claymore
+  m_prefab: {fileID: 1052936437137826, guid: a1f81749c9f281b418a1a9e005c5b1e2, type: 2}
+  m_attachedType: 0
+  m_weaponStat:
+    physicsType: 0
+    physicalDamage: 30
+    element: 0
+    elementDamage: 0
+    subElement: 0
+    subDamage: 0
+  m_weaponType: 2
+  m_subWeapon: {fileID: 0}
+  m_actionList:
+  - {fileID: 11400000, guid: b61eb59503aad1e43aeb90adc69a410b, type: 2}
+  - {fileID: 11400000, guid: 9e11577bed6cbca45a7009246eacc4d1, type: 2}
+  - {fileID: 11400000, guid: bd7a2363ac858744185255891fbe985a, type: 2}
+  - {fileID: 11400000, guid: abdb2beec8251be478a5590a81530fd9, type: 2}
+  m_durabillity: 175
+  m_waitSlot: 2
+  m_partsType: 4

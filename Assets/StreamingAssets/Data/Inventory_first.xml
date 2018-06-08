@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Inventory>
+  <Items/>
+  <Spells/>
+  <Equips>
+    <Weapon>0</Weapon>
+    <SubWeapon>0</SubWeapon>
+    <Body>0</Body>
+    <Leg>0</Leg>
+    <Arm>0</Arm>
+    <Head>0</Head>
+  </Equips>
+</Inventory>

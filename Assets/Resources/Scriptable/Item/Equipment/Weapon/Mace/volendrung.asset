@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b4598b5ac226b447aa4af81e64327ba, type: 3}
+  m_Name: volendrung
+  m_EditorClassIdentifier: 
+  m_iconImg: {fileID: 21300068, guid: 2dc524a42369a0148bf44395f1365696, type: 3}
+  m_itemIdx: 8
+  m_name: Volendrung
+  m_prefab: {fileID: 1723742489683006, guid: 8bfed4c32a349434ebf17423d8c60f20, type: 2}
+  m_attachedType: 0
+  m_weaponStat:
+    physicsType: 0
+    physicalDamage: 50
+    element: 4
+    elementDamage: 0
+    subElement: 0
+    subDamage: 0
+  m_weaponType: 3
+  m_subWeapon: {fileID: 0}
+  m_actionList:
+  - {fileID: 11400000, guid: fabfacb39bfc10f46b7aa65d2999df25, type: 2}
+  - {fileID: 11400000, guid: 771c793b0d7c03d4aa52498c74243ef5, type: 2}
+  - {fileID: 11400000, guid: 63a1926fa3d85584dba06ea8d10261c9, type: 2}
+  - {fileID: 11400000, guid: 06bf79ef8cd63bc488b44cdb96ef8926, type: 2}
+  m_durabillity: 175
+  m_waitSlot: 2
+  m_partsType: 4

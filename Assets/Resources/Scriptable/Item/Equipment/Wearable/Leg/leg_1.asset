@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 143cd0d030c850b44bf5c658b256e356, type: 3}
+  m_Name: leg_1
+  m_EditorClassIdentifier: 
+  m_iconImg: {fileID: 21300004, guid: 35a81f62875aeac4290ef42da18c77f2, type: 3}
+  m_itemIdx: 1
+  m_name: DuelLeg
+  m_prefab: {fileID: 1971362929070862, guid: 73439362e6fb4e04a9637d51482057c5, type: 2}
+  m_partsType: 2
+  m_resister:
+    strike: 2
+    slash: 3
+    fire: 1
+    ice: 0
+    thunder: 0

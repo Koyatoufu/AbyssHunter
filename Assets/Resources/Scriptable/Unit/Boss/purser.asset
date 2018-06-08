@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3baaf1fd7276dcd489da2911acc78dd0, type: 3}
+  m_Name: purser
+  m_EditorClassIdentifier: 
+  m_unitPrefab: {fileID: 1228727588546882, guid: 90be9a241f6680842ac22eb40cb1f532,
+    type: 2}
+  m_iconImage: {fileID: 21300020, guid: d4fb5563a0487474aa14d12cf5739915, type: 3}
+  m_index: 0
+  m_name: purser
+  m_unitType: 2
+  m_baseStat:
+    hp: 500
+    maxHp: 500
+    stamina: 100
+    maxStamina: 100
+    moveSpeed: 2.5
+    dudgeSpeed: 2
+    nItemLoad: 0
+    resister:
+      strike: 10
+      slash: 5
+      fire: 10
+      ice: 10
+      thunder: -5
+  m_stayLevel: 080000000700000004000000
+  m_putItems:
+  - {fileID: 11400000, guid: 097e3515828bd004fa132ef111dc28bb, type: 2}
+  - {fileID: 11400000, guid: e803ae3e02d13174e9e3ace17920d723, type: 2}
+  - {fileID: 11400000, guid: f2afeca7c2005a34ba690c8171ee3e9e, type: 2}
+  - {fileID: 11400000, guid: df0b2c51115db124aaebcfc6037b4a02, type: 2}
+  - {fileID: 11400000, guid: c1688d946504d3b4784a1933724903d8, type: 2}

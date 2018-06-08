@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HunterProject", "HunterProject.csproj", "{CD71A6E2-1370-6E9D-0593-E1B2CC76AAFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD71A6E2-1370-6E9D-0593-E1B2CC76AAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD71A6E2-1370-6E9D-0593-E1B2CC76AAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD71A6E2-1370-6E9D-0593-E1B2CC76AAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD71A6E2-1370-6E9D-0593-E1B2CC76AAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3baaf1fd7276dcd489da2911acc78dd0, type: 3}
+  m_Name: cattle
+  m_EditorClassIdentifier: 
+  m_unitPrefab: {fileID: 1316369115510530, guid: 5ae44a207915f3b4fb8b04ab731b3bca,
+    type: 2}
+  m_iconImage: {fileID: 0}
+  m_index: 1
+  m_name: cattle
+  m_unitType: 0
+  m_baseStat:
+    hp: 30
+    maxHp: 30
+    stamina: 0
+    maxStamina: 0
+    moveSpeed: 3
+    dudgeSpeed: 1
+    nItemLoad: 0
+    resister:
+      strike: 0
+      slash: 0
+      fire: 0
+      ice: 0
+      thunder: 0
+  m_stayLevel: 
+  m_putItems:
+  - {fileID: 11400000, guid: ca21acae0bc76e04eb40fc3c16598412, type: 2}

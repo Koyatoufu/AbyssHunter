@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3baaf1fd7276dcd489da2911acc78dd0, type: 3}
+  m_Name: rabbit
+  m_EditorClassIdentifier: 
+  m_unitPrefab: {fileID: 1693202224678722, guid: 89d005368bdd3c1448e8898596dd1683,
+    type: 2}
+  m_iconImage: {fileID: 0}
+  m_index: 0
+  m_name: rabbit
+  m_unitType: 0
+  m_baseStat:
+    hp: 10
+    maxHp: 10
+    stamina: 0
+    maxStamina: 0
+    moveSpeed: 5
+    dudgeSpeed: 1
+    nItemLoad: 0
+    resister:
+      strike: 0
+      slash: 0
+      fire: 0
+      ice: 0
+      thunder: 0
+  m_stayLevel: 
+  m_putItems:
+  - {fileID: 11400000, guid: cd8bdf181e71e9e4e84ff265e392e965, type: 2}

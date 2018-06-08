@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<AreaInfos>
+    <Area>
+        <Name>Forest</Name>
+        <FullName>Moonlight Forest</FullName>
+        <SkyboxName>satara_night</SkyboxName>
+        <SubAreaCount>8</SubAreaCount>
+    </Area>
+    <Area>
+        <Name>Desert</Name>
+        <FullName>Desert of Desecration</FullName>
+        <SkyboxName>satara_night</SkyboxName>
+        <SubAreaCount>10</SubAreaCount>
+    </Area>
+</AreaInfos>

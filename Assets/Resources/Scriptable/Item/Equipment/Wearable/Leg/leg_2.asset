@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 143cd0d030c850b44bf5c658b256e356, type: 3}
+  m_Name: leg_2
+  m_EditorClassIdentifier: 
+  m_iconImg: {fileID: 21300012, guid: 35a81f62875aeac4290ef42da18c77f2, type: 3}
+  m_itemIdx: 2
+  m_name: DynaLeg
+  m_prefab: {fileID: 1005412009655800, guid: 9d54bd3e9ce59d44e90ad25fb387e43e, type: 2}
+  m_partsType: 2
+  m_resister:
+    strike: 3
+    slash: 1
+    fire: 0
+    ice: 0
+    thunder: 1

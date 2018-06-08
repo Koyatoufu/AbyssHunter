@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<QuestInfos>
+    <Quest>
+        <Name>The Forest of Guardian</Name>
+        <AreaName>Forest</AreaName>
+        <Type>2</Type>
+        <TargetIndex>0</TargetIndex>
+        <TargetCount>1</TargetCount>
+        <TimeLimit>1800</TimeLimit>
+    </Quest>
+    <Quest>
+        <Name>Erosion of the Abyss</Name>
+        <AreaName>Forest</AreaName>
+        <Type>2</Type>
+        <TargetIndex>1</TargetIndex>
+        <TargetCount>1</TargetCount>
+        <TimeLimit>1800</TimeLimit>
+    </Quest>
+</QuestInfos>

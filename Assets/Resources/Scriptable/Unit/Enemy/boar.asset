@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3baaf1fd7276dcd489da2911acc78dd0, type: 3}
+  m_Name: boar
+  m_EditorClassIdentifier: 
+  m_unitPrefab: {fileID: 1288361558487646, guid: 05b55c3c2cff4c74bab77a27ac8a1b58,
+    type: 2}
+  m_iconImage: {fileID: 0}
+  m_index: 0
+  m_name: boar
+  m_unitType: 1
+  m_baseStat:
+    hp: 100
+    maxHp: 100
+    stamina: 0
+    maxStamina: 0
+    moveSpeed: 2.5
+    dudgeSpeed: 1
+    nItemLoad: 0
+    resister:
+      strike: 0
+      slash: -5
+      fire: 0
+      ice: 5
+      thunder: 0
+  m_stayLevel: 
+  m_putItems:
+  - {fileID: 11400000, guid: 3c798fb3afd7e1a458d1e27a9ea020ea, type: 2}
